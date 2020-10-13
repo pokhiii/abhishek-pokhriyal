@@ -1,16 +1,16 @@
-### Hi there 👋
+Howdy! I'm Abhishek Pokhriyal (_aka_ Pokhi), a full-stack developer at <a href="https://coloredcow.com">ColoredCow</a>.
 
-<!--
-**abhishek-pokhriyal/abhishek-pokhriyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/its_pokhi"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>&nbsp;
+<a href="https://instagram.com/fofxg"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>&nbsp;
+<a href="https://www.linkedin.com/in/pokhriyal/"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
 
-Here are some ideas to get you started:
+<hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :newspaper: Blog Posts
+
+- [Experiments with GitHub CLI](https://coloredcow.com/experiments-with-github-cli/)
+- [Quickly set up a WordPress site using WP-CLI](https://pokhi.xyz/2020/04/25/setting-up-a-wordpress-site-using-wp-cli/)
+
+<hr/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-pokhriyal&show_icons=true&include_all_commits=true&count_private=true&line_height=24&theme=vue&hide=stars" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-pokhriyal&show_icons=true&include_all_commits=true&line_height=30&count_private=true&layout=compact&theme=vue" />
