@@ -1,4 +1,6 @@
-Howdy! I'm Abhishek Pokhriyal (_aka_ Pokhi), a full-stack developer at <a href="https://coloredcow.com/?utm_source=github&utm_medium=abhishek-pokhriyal">ColoredCow</a>.
+Hey there 👋
+
+I'm Abhishek Pokhriyal (_aka_ Pokhi), a full-stack developer at <a href="https://coloredcow.com/?utm_source=github&utm_medium=abhishek-pokhriyal">ColoredCow</a>.
 
 <a href="https://twitter.com/its_pokhi"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>&nbsp;
 <a href="https://instagram.com/fofxg"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>&nbsp;
@@ -8,8 +10,8 @@ Howdy! I'm Abhishek Pokhriyal (_aka_ Pokhi), a full-stack developer at <a href="
 
 ### :newspaper: Blog Posts
 
+- [Why Building Graphs with D3 Makes Sense](https://coloredcow.com/why-building-graphs-with-d3-makes-sense/?utm_source=github&utm_medium=abhishek-pokhriyal)
 - [Experiments with GitHub CLI](https://coloredcow.com/experiments-with-github-cli/?utm_source=github&utm_medium=abhishek-pokhriyal)
-- [Quickly set up a WordPress site using WP-CLI](https://pokhi.xyz/2020/04/25/setting-up-a-wordpress-site-using-wp-cli/)
 
 <hr/>
 
