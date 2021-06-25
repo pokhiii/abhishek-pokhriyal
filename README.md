@@ -1,6 +1,6 @@
 Hey there 👋
 
-I'm Abhishek Pokhriyal (_aka_ Pokhi), a full-stack developer at <a href="https://coloredcow.com/?utm_source=github&utm_medium=abhishek-pokhriyal">ColoredCow</a>.
+I'm Abhishek Pokhriyal, a full-stack developer at <a href="https://coloredcow.com/?utm_source=github&utm_medium=abhishek-pokhriyal">ColoredCow</a>.
 
 <a href="https://twitter.com/its_pokhi"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>&nbsp;
 <a href="https://instagram.com/fofxg"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>&nbsp;
